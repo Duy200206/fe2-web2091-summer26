@@ -13,11 +13,20 @@
       "cover": "https://picsum.photos/300/450?random=2"
     },
     {
-      "title": "1",
-      "author": "1",
-      "cover": "1",
-      "description": "1",
+      "title": "ten truyen",
       "id": 3
+    },
+    {
+      "title": "ten truyen",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Truyen trinh tham",
+      "description": "Truyen trinh tham hay",
+      "active": true
     }
   ]
 }

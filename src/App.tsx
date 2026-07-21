@@ -1,6 +1,6 @@
 import { Toaster } from "react-hot-toast";
 import { Link } from "react-router-dom";
-import Lab5 from "./labs/Lab1";
+import Lab5 from "./labs/Lab4";
 
 function App() {
   return (
